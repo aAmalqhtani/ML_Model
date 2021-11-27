@@ -1,20 +1,20 @@
 # Machine Learning in FinTech:
 
 ## Area of FinTech:
-### Lending and credit decisions.
+### Realtech.
  
 ## Dataset researched and located:
-### https://www.kaggle.com/thuranaing411/creditworthiness/version/1
+### https://www.kaggle.com/kirillchorniy/california-housing?select=california_housing_train.csv
  
 ## ML Use Case:
 
-### Checking The customer's eligibility for loan
+### Predicting the price of a house according to several variables.
  
 ## ML model selected:
-###  Neural Network
+###  Neural Network.
  
 ## Reason:
-### **We decided to choose Neural networks because it helps us cluster and classify. and it can improve the accuracy for our model.**
+### **We decided to choose Neural Network Model to help us classify and cluster our data and improve the accuracy when predicting the test set.**
 ## Group 1:
 ### **TITANS** 
 ## Group Members:
